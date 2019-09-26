@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>Image/logo.png</file>
-        <file>Images/movie.avi</file>
         <file>Images/movie.gif</file>
         <file>skin/css/default.css</file>
         <file>Image/switch-hover.png</file>
